@@ -26,13 +26,9 @@ function Login() {
     <div className="login-page">
 
       <div className="left-panel">
-        <h1>🎓 Student Management System</h1>
-
-        <p>
-          Manage Students, Marks,
-          Topper, Average and Reports
-          in one Dashboard.
-        </p>
+        <h1>🎓 Student<br />
+        Management System</h1>
+        
       </div>
 
       <div className="login-box">

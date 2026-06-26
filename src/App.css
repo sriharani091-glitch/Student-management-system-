@@ -30,8 +30,11 @@ body{
 }
 
 .left-panel h1{
-  font-size:48px;
+  font-size:50px;
   margin-bottom:20px;
+  font-weight: bold;
+  line-height: 1.1;
+  white-space: nowrap;
 }
 
 .left-panel p{
@@ -60,11 +63,14 @@ body{
 .login-box h2{
   text-align:center;
   margin-bottom:15px;
+  color: #1e293b;
+  font-size: 30px;
+  font-weight: bold;
 }
 
 .login-box input{
   padding:15px;
-  border:1px solid #ddd;
+  border:1px solid #f4efef;
   border-radius:10px;
 }
 
